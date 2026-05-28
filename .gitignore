@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw and processed data
+data/raw/
+data/external/
+data/processed/
+
+# Temporary files
+*.log
+*.tmp
+
+# QGIS backup / auxiliary files
+*.qgz~
+*.qgs~
+*.qgd
+*.qgd~
+
+# System files
+.DS_Store
+Thumbs.db

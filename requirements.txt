@@ -1,0 +1,11 @@
+pandas
+geopandas
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+shapely
+pyproj
+matplotlib
+jupyter
+python-dotenv
+pyogrio
